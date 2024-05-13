@@ -1,0 +1,6 @@
+*.csv
+*.parquet
+*.xlsx
+*.db
+
+venv/
